@@ -8,7 +8,7 @@
   background: linear-gradient(135deg, #6EE7B7 0%, #3B82F6 50%, #9333EA 100%);
   padding: 25px;
   border-radius: 15px;
-  color: white;
+  color: black;
 ">
 
 <h1 align="center">Hi 👋, I'm Janmeet Singh</h1>
