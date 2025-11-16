@@ -1,6 +1,6 @@
 <!-- 🔥 Neon Dark Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/5uYvmcL.png" width="100%" />
+  <img src="ChatGPT Image Nov 16, 2025, 11_51_47 AM.png" width="100%" breadth="75"/>
 </p>
 
 <h1 align="center">⚡ Janmeet Singh</h1>
