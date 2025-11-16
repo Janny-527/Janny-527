@@ -1,6 +1,6 @@
 <!-- 🔥 Banner Section -->
 <p align="center">
-  <img src="https://i.imgur.com/1mGcK4q.png" width="100%" alt="Janmeet Singh Banner"/>
+  <img src="ChatGPT Image Nov 16, 2025, 11_51_47 AM.png" width="100%" alt="Janmeet Singh Banner"/>
 </p>
 
 <!-- 🌈 Gradient Background Wrapper -->
