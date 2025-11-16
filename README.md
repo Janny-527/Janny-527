@@ -5,7 +5,7 @@
 # 👋 Welcome to My GitHub
 
 <p>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/Janny-527" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;Machine+Learning+Developer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
@@ -58,10 +58,12 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&hide_border=true&layout=compact)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janny-527&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+</div>
+<div align="center">
+<p>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=janny-527&show_icons=true&layout=compact" alt="top languages" />
+</p>
 </div>
 
 ---
