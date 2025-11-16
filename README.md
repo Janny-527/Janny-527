@@ -1,64 +1,53 @@
-<!-- 🔥 Banner Section -->
+<!-- 🔥 Neon Dark Banner -->
 <p align="center">
-  <img src="ChatGPT Image Nov 16, 2025, 11_51_47 AM.png" width="100%" alt="Janmeet Singh Banner"/>
+  <img src="https://i.imgur.com/5uYvmcL.png" width="100%" />
 </p>
 
-<!-- 🌈 Gradient Background Wrapper -->
-<div style="
-  background: linear-gradient(135deg, #6EE7B7 0%, #3B82F6 50%, #9333EA 100%);
-  padding: 25px;
-  border-radius: 15px;
-  color: black;
-">
-
-<h1 align="center">Hi 👋, I'm Janmeet Singh</h1>
-<h3 align="center">A passionate Student from India</h3>
+<h1 align="center">⚡ Janmeet Singh</h1>
+<h3 align="center">🚀 Data Science & Machine Learning Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=janny-527&label=Profile%20views&color=ffffff&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=janny-527&label=Profile%20Visits&color=blueviolet&style=flat" />
 </p>
 
 ---
 
-### 🚀 About Me  
-- 🔭 Currently working on **Data Science**  
-- 🌱 Learning **Pandas, NumPy, Matplotlib**  
-- 📫 Reach me: **janmeetsingh527@gmail.com**
+## 🔮 About Me
+🌟 Passionate about **Data Science**, **AI**, and **Machine Learning**  
+📌 Currently learning: **NumPy, Pandas, Matplotlib**  
+📩 Email: **janmeetsingh527@gmail.com**
 
 ---
 
-### 🔗 Connect with Me  
+## 🌐 Connect With Me  
 <p align="left">
   <a href="https://linkedin.com/in/janmeet-singh-314740241" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://kaggle.com/janny527" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools  
+## 🧠 Skills & Tools  
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-004d61?style=for-the-badge">
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white">
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janny-527&show_icons=true&layout=compact&theme=radical" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=janny-527&show_icons=true&theme=radical" />
-</p>
-
-</div>
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janny-527&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?u
