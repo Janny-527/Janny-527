@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Banner](https://img.shields.io/badge/GitHub%20Profile-Customized-blueviolet?style=for-the-badge&logo=github)
+![Profile Banner](github-header-banner.png)
 
 # 👋 Welcome to My GitHub
 
