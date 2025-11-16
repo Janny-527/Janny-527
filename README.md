@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ![Profile Banner](github-header-banner.png)
@@ -19,12 +20,12 @@
 </p>
 
 ### 🎯 Currently Learning
-- Data Science 
-- Data Analysis & Visualization
-- Backend Development with Python
-- Cloud Technologies
+Data Science 
+Data Analysis & Visualization
+Backend Development with Python
+Cloud Technologies
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -102,3 +103,4 @@ Coming soon! Check back for insightful articles on Data Science and AI.
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
 </div>
+ 
