@@ -20,12 +20,12 @@
 </p>
 
 ### 🎯 Currently Learning
-Data Science 
-Data Analysis & Visualization
-Backend Development with Python
-Cloud Technologies
+- Data Science 
+- Data Analysis & Visualization
+- Backend Development with Python
+- Cloud Technologies
 
-
+---
 
 ## 🛠️ Tech Stack
 
